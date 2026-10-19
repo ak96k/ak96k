@@ -70,7 +70,7 @@
 - Cloud Virtual Internship - AWs Academy
 - Data Science Virtual Internship - National Internship Portal
 - Google Cybersecurity - Coursera
-- 
+  
 
 ---
 
