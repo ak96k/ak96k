@@ -66,7 +66,11 @@
 
 - Infosys Springboard — Web Development
 - Intel Unnati — Hands-on Machine Learning
-- EduSkills — AI/ML Virtual Internship
+- AI/ML Virtual Internship
+- Cloud Virtual Internship - AWs Academy
+- Data Science Virtual Internship - National Internship Portal
+- Google Cybersecurity - Coursera
+- 
 
 ---
 
